@@ -1,1 +1,0 @@
-#CrytoHack Solutions
