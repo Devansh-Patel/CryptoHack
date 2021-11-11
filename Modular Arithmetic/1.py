@@ -5,4 +5,4 @@ def gcd(a, b):
         return gcd(b, a%b)
 
 
-print(gcd(26513, 32321))
+print(gcd(66528, 52920))
